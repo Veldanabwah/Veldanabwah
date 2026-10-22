@@ -1,37 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A22c55e%2C100%3A0ea5e9&height=180&section=header&text=Halo%2C+gue+Velda&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="waving" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A22c55e%2C100%3A0ea5e9&height=180&section=header&text=Hey%2C+I%27m+Velda&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="waving" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=600&lines=lagi+ngoding...+%F0%9F%92%BB;lagi+mikirin+bug+%F0%9F%90%9B;cupang+gue+lagi+berantem+%F0%9F%90%9F;sebentar%2C+rebahan+dulu+%F0%9F%9B%8C;error+%3D+fitur+yang+belum+dipromosikan+%E2%9C%A8" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=640&lines=coding...+or+pretending+to+%F0%9F%92%BB;debugging+my+life+%F0%9F%90%9B;my+betta+fish+are+fighting+again+%F0%9F%90%9F;hold+on%2C+napping+first+%F0%9F%9B%8C;error+%3D+an+unshipped+feature+%E2%9C%A8" alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Veldanabwah&label=yang+udah+main+ke+sini&color=16a34a&style=flat" alt="views"/>
-  <img src="https://img.shields.io/badge/status-rebahan-22c55e" alt="status"/>
+  <img src="https://komarev.com/ghpvc/?username=Veldanabwah&label=people+who+stopped+by&color=16a34a&style=flat" alt="views"/>
+  <img src="https://img.shields.io/badge/status-napping-22c55e" alt="status"/>
 </p>
 
 ---
 
-### 👋 Halo, gue Velda!
+### 👋 Hey, I'm Velda!
 
-Komposisi tubuh gue (diukur pake metode yang *sangat* ilmiah):
+Body composition (measured with a *very* scientific method):
 
-- ☕ 60% kopi
-- 💻 30% kode
-- 🐟 10% mikirin ikan cupang
+- ☕ 60% coffee
+- 💻 30% code
+- 🐟 10% thinking about betta fish
 
-> **"Error itu bukan bug, tapi fitur yang belum sempat dipromosikan."**
-> — gue, abis 3 jam debugging padahal cuma kurang titik koma.
+> **"An error isn't a bug — it's a feature that hasn't shipped yet."**
+> — me, after 3 hours of debugging a missing semicolon.
 
-**Lagi ngapain sekarang:**
-- 🐟 Jualan cupang (beneran. DM kalau minat.)
-- 🤖 Ngulik agent AI sampe begadang
-- 😴 Rebahan sambil mikirin kenapa kode gue tiba-tiba jalan
+**Currently up to:**
+- 🐟 Selling betta fish (for real. DM me if you want one.)
+- 🤖 Building & tinkering with AI agents till 3am
+- 😴 Napping while wondering why my code suddenly works
 
 ---
 
-### 🧰 Yang sering gue mainin
+### 🧰 Stuff I play with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,go,react,nodejs,docker,git,linux" alt="skills"/>
@@ -39,7 +39,7 @@ Komposisi tubuh gue (diukur pake metode yang *sangat* ilmiah):
 
 ---
 
-### 📊 Statistik yang (katanya) keren
+### 📊 Stats that (supposedly) look cool
 
 <p align="center">
   <a href="https://github.com/Veldanabwah">
@@ -56,26 +56,26 @@ Komposisi tubuh gue (diukur pake metode yang *sangat* ilmiah):
 
 ---
 
-### 😂 Fakta receh yang gue koleksi
+### 😂 Random facts I collect
 
-- Sebelum jadi *developer*, gue kira `git push` itu perintah buat ngedorong sesuatu secara fisik.
-- Ikan cupang nggak butuh banyak air, tapi butuh **banyak perhatian** — mirip kode gue.
+- Before becoming a developer, I thought `git push` was a physical command to shove something.
+- Betta fish don't need much water, but they need a **lot** of attention — just like my code.
 - `// TODO: fix later` = `// never`.
 
 ---
 
-### 🐟 Bukti gue jualan cupang
+### 🐟 Proof that I sell betta fish
 
 ```
      ><(((('>
    <°))))><
-  cupang gue (versi ASCII, yang asli lebih ganteng)
+  my betta (ASCII version, the real one is prettier)
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0ea5e9%2C100%3A22c55e&height=140&section=footer&text=makasih+udah+mampir&fontSize=24&fontColor=ffffff&fontAlignY=70" alt="footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0ea5e9%2C100%3A22c55e&height=140&section=footer&text=thanks+for+stopping+by&fontSize=24&fontColor=ffffff&fontAlignY=70" alt="footer" width="100%"/>
 </p>
 
-<p align="center"><sub>Dibikin pake ☕ + 🐟 + kadang 😴</sub></p>
+<p align="center"><sub>Made with ☕ + 🐟 + occasional 😴</sub></p>
